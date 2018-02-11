@@ -2,7 +2,7 @@
 
 Challenge: To create a web page for a fictional character's resume, focusing on using semantic HTML. Use a fictional character and not yourself so you don't get bogged down in perfecting the information in the resume.
 
-Requirements
+## Requirements
 * Use semantic HTML throughout the page. At a minimum you should use: <header>, <main>, <section>, and <address>.
 * Include a page title (aka, use a <title> element) and meta description in the head. You should include these in all public facing web pages you create because they help web crawlers understand your page and contribute to search engine optimization.
 * There should be a contact info section, with the following information about your character:
