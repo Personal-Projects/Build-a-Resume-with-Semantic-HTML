@@ -1,4 +1,4 @@
-# Build-a-Resume-with-Semantic-HTML
+# Build a Resume with Semantic HTML
 
 Challenge: To create a web page for a fictional character's resume, focusing on using semantic HTML. Use a fictional character and not yourself so you don't get bogged down in perfecting the information in the resume.
 
